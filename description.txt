@@ -1,6 +1,7 @@
 This mod makes all created characters immediately start with full HP and Mana.
 Requested by Throarbin
 Works in 1.4.3 and 1.4.4
+Can be configured to also include life fruit hearts (1.4.4 only)
 
 Join my discord! => discord.gg/G5cbT7tj9K
 
