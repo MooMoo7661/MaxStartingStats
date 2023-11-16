@@ -1,0 +1,3 @@
+displayName = Max Starting Stats
+author = MooMoo
+version = 0.1

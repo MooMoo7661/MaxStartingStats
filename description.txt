@@ -1,0 +1,7 @@
+This mod makes all created characters immediately start with full HP and Mana.
+Requested by Throarbin
+Works in 1.4.3 and 1.4.4
+
+Join my discord! => discord.gg/G5cbT7tj9K
+
+Mod Icon border made by Otterly
